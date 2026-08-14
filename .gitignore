@@ -1,0 +1,20 @@
+# Local data / generated outputs
+data/*.csv
+scorer_results/
+outputs/
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
